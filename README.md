@@ -16,4 +16,4 @@ We created starbucks landing Page using HTML, CSS ...
  ### All the images belongs to the respective owners and are used only for educational purposes !!!
  
  
- ![](images/Capture1.PNG)
+ ![](images/Capture.PNG)
